@@ -1,0 +1,14 @@
+<identificador, x, 2, 1>
+<tk_asignacion, 2, 3>
+<tk_entero, 10, 2, 5>
+<if, 3, 1>
+<identificador, x, 3, 4>
+<tk_mayor_igual, 3, 6>
+<tk_entero, 5, 3, 9>
+<tk_dos_puntos, 3, 10>
+<print, 4, 5>
+<tk_par_izq, 4, 10>
+<identificador, x, 4, 11>
+<tk_suma, 4, 13>
+<tk_entero, 1, 4, 15>
+<tk_par_der, 4, 16>
